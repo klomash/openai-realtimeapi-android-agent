@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloAgent2</string>
+    <string name="activate">Activate</string>
+    <string name="deactivate">Deactivate</string>
+    <string name="mute">Mute</string>
+</resources>
